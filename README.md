@@ -23,6 +23,8 @@ In the back-end:
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=4169E1&logo=postgresql&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+![Ruby](https://img.shields.io/badge/-Ruby-232323?style=flat&labelColor=7952B3&logo=ruby&logoColor=ffffff)
+![API Rest](https://img.shields.io/badge/-APIREst-232323?style=flat&labelColor=7952B3&logo=apirest&logoColor=ffffff)
 
 <!-- And in general:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
