@@ -1,5 +1,5 @@
 ## Olá! 
-Meu nome é Keferson, sou um estudante de desenvolvimento web full-stack de Caieiras, São Paulo, e tenho praticado minhas habilidades em programação, através de trabalhos como free lancer. Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade Estácio, e busco por uma oportunidade na área de desenvolvimento web.
+Tenho 3 anos de experiência em projetos pessoais e como freelancer, utilizando as seguintes tecnologias: Html5, Css3, JavaScript, React.Js, TypeScript, Node.Js e SQL Server. Estou pronto para ingressar em uma empresa de tecnologia, de modo a, aprimorar ainda mais minhas habilidades na área de desenvolvimento web. Sou motivado, pró-ativo, tenho boa oratória, facilidade de falar em público, e possuo uma mentalidade voltada para soluções.
 
 <a href="#">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
