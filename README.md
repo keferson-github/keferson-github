@@ -15,15 +15,15 @@ No Front-End:
 ![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-232323?style=flat&labelColor=7952B3&logo=tailwindcss&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=800080&logo=php&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-232323?style=flat&labelColor=000000&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 
 No Back-End:
 
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![API PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=7952B3&logo=postgresql&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
+![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=7952B3&logo=postgresql&logoColor=ffffff)
 ![API Rest](https://img.shields.io/badge/-APIREst-232323?style=flat&labelColor=7952B3&logo=apirest&logoColor=ffffff)
 
 <!-- And in general:
