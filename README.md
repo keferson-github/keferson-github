@@ -24,6 +24,7 @@ No Back-End:
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![API Rest](https://img.shields.io/badge/-APIREst-232323?style=flat&labelColor=7952B3&logo=apirest&logoColor=ffffff)
+![API Postgree](https://img.shields.io/badge/-Postgree-232323?style=flat&labelColor=7952B3&logo=postgree&logoColor=ffffff)
 
 <!-- And in general:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
