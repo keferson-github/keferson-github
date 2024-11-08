@@ -1,11 +1,13 @@
 ## Olá! 
 Tenho 3 anos de experiência em projetos pessoais e como freelancer, utilizando as seguintes tecnologias: Html5, Css3, JavaScript, React.Js, TypeScript, Node.Js, PHP e SQL/MySQL. Estou pronto para ingressar em uma empresa de tecnologia, de modo a, aprimorar ainda mais minhas habilidades na área de desenvolvimento web. Sou motivado, pró-ativo, tenho boa oratória, facilidade de falar em público, e possuo uma mentalidade voltada para soluções.
 
+
 <a href="#">
 <img src="https://media1.tenor.com/images/a7bd6b94430c1e66148d580209e377c5/tenor.gif?itemid=5043108" title="hello" width="335" height="243" align="right" alt="Hello, there!">
 </a>
 
 ![Keferson GitHub stats](https://github-readme-stats.vercel.app/api?username=keferson-github&show_icons=true&theme=tokyonight)
+
 
 ### Estas são algumas das tecnologias que utilizo em meus projetos profissionais e pessoais
 
