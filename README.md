@@ -1,5 +1,5 @@
 ## Olá! 
-Tenho 3 anos de experiência em projetos pessoais e como freelancer, utilizando as seguintes tecnologias: Html5, Css3, JavaScript, React.Js, TypeScript, Node.Js, PHP e SQL/MySQL. Estou pronto para ingressar em uma empresa de tecnologia, de modo a, aprimorar ainda mais minhas habilidades na área de desenvolvimento web. Sou motivado, pró-ativo, tenho boa oratória, facilidade de falar em público, e possuo uma mentalidade voltada para soluções.
+Sou Desenvolvedor Front End há mais de 3 anos, tenho experiência nas linguagens PHP, JavaScript, React.Js, Node.Js e SQL, e atuo fortemente no mercado de programação como Freelancer PJ. Desenvolvo Websites, Landing Pages, e Softwares sob demanda, utilizando na maior parte dos meus projetos tanto o PHP quanto o JavaScript. E através da minha sólida experiência em UX/UI, Bando de Dados e Automações, consigo entregar soluções muito mais robustas, completas e escaláveis.
 
 
 <a href="#">
