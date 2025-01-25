@@ -17,14 +17,13 @@ No Front-End:
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-232323?style=flat&labelColor=7952B3&logo=tailwindcss&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=800080&logo=php&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=800080&logo=git&logoColor=171515)
 
 No Back-End:
 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=7952B3&logo=postgresql&logoColor=ffffff)
 ![API Rest](https://img.shields.io/badge/-APIREst-232323?style=flat&labelColor=7952B3&logo=apirest&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=800080&logo=git&logoColor=171515)
 
 <!-- And in general:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
