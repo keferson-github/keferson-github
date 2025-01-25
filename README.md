@@ -22,7 +22,6 @@ No Back-End:
 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
 ![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
-![API Rest](https://img.shields.io/badge/-APIREst-232323?style=flat&labelColor=7952B3&logo=apirest&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=800080&logo=git&logoColor=171515)
 
 <!-- And in general:
