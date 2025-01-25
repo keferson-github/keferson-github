@@ -13,13 +13,11 @@ Sou Desenvolvedor Front End há mais de 3 anos, tenho experiência nas linguagen
 
 No Front-End:
 
-![HTML5](https://img.shields.io/badge/-HTML5-232323?style=flat&labelColor=E34F26&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-232323?style=flat&labelColor=1572B6&logo=css3&logoColor=ffffff)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-232323?style=flat&labelColor=7952B3&logo=bootstrap&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-232323?style=flat&labelColor=7952B3&logo=tailwindcss&logoColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=800080&logo=php&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-232323?style=flat&labelColor=7952B3&logo=tailwindcss&logoColor=ffffff)
+![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=800080&logo=php&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=800080&logo=git&logoColor=171515)
 
 No Back-End:
 
