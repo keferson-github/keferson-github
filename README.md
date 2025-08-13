@@ -13,14 +13,14 @@ Atuo no mercado de T.I como Desenvolvedor Front-End (PJ) há 3 anos. Utilizo as 
 No Front-End:
 
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-232323?style=flat&labelColor=7952B3&logo=tailwindcss&logoColor=ffffff)
+![Next.Js](https://img.shields.io/badge/-Next.Js-232323?style=flat&labelColor=4479A1&logo=nextjs&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=007acc)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-232323?style=flat&labelColor=7952B3&logo=tailwindcss&logoColor=ffffff)
 
 No Back-End:
 
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![PHP](https://img.shields.io/badge/-PHP-232323?style=flat&labelColor=800080&logo=php&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-232323?style=flat&labelColor=4479A1&logo=mysql&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-232323?style=flat&labelColor=800080&logo=postgresql&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=800080&logo=git&logoColor=171515)
 
 <!-- And in general:
