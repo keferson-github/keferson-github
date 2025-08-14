@@ -2,12 +2,18 @@
 Atuo no mercado de T.I há pelo menos 4 anos na área de desenvolvimento web.
 
 ## Tecnologias e Experiência Atual
-Em meus projetos, utilizo as seguintes tecnologias: 
+Em meus projetos, utilizo as seguintes tecnologias:
+
 **- React**
+
 **- TypeScript**
+
 **- NextJs**
+
 **- Tailwind.CSS**
+
 **- PostgreSQL**
+
 **- Node**
 
 **Obs.:** No momento, presto serviço para a empresa Cemyke Comunicação Visual como Desenvolvedor Full Stack (PJ). 
