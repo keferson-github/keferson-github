@@ -28,8 +28,7 @@ Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
 
 ![Keferson GitHub stats](https://github-readme-stats.vercel.app/api?username=keferson-github&show_icons=true&theme=tokyonight)
 
-
-#### Stack Que Mais Utilizo
+#### Stack
 
 No **Front-End**:
 
