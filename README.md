@@ -18,7 +18,7 @@ Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
 
 **Obs.:** No momento, presto serviço para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)`. 
 
-### Minhas Atividades Na _Cemyke Comunicação Visual_
+### Minhas atividades na empresa _Cemyke Comunicação Visual_
 - Minha função é desenvolvo os Sites, Landing Pages, e Softwares como Serviço para esta organização.
 - E cuido não apenas da hospedagem, mas também das implementações desses projetos.
 
