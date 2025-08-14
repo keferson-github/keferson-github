@@ -18,7 +18,7 @@ Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
 
 **Obs.:** No momento, presto serviço para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)`. 
 
-### Minhas atividades na empresa _Cemyke Comunicação Visual_
+### Minhas Atividades Na Empresa _Cemyke Comunicação Visual_
 - Minha função é desenvolvo os Sites, Landing Pages, e Softwares como Serviço para esta organização.
 - E cuido não apenas da hospedagem, mas também das implementações desses projetos.
 
@@ -29,16 +29,16 @@ Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
 ![Keferson GitHub stats](https://github-readme-stats.vercel.app/api?username=keferson-github&show_icons=true&theme=tokyonight)
 
 
-### Estas são algumas das tecnologias que utilizo em meus projetos profissionais e pessoais
+#### Stack Que Mais Utilizo
 
-No Front-End:
+No **Front-End**:
 
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
 ![Nextjs](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=007acc)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-232323?style=flat&labelColor=7952B3&logo=tailwindcss&logoColor=ffffff)
 
-No Back-End:
+No **Back-End**:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007bff?style=flat&logo=postgresql&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
