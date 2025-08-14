@@ -18,7 +18,7 @@ Em meus projetos, utilizo as seguintes tecnologias:
 
 **Obs.:** No momento, presto serviço para a empresa Cemyke Comunicação Visual como Desenvolvedor Full Stack (PJ). 
 
-###### Minhas Atividades
+### Minhas Atividades
 - Minha função é desenvolvo os Sites, Landing Pages, e Softwares como Serviço para esta organização.
 - E cuido não apenas da hospedagem, mas também das implementações desses projetos.
 
