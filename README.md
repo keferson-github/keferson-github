@@ -1,5 +1,5 @@
 ## Olá! 
-- Atuo no mercado de T.I há pelo menos 4 anos na área de desenvolvimento web!
+- Atuo no mercado de T.I há pelo menos 4 anos na área de desenvolvimento web.
 - Em meus projetos, utilizo as seguintes tecnologias: React, TypeScript, NextJs, Tailwind.CSS, PostgreSQL e Node. 
 - No momento, presto serviço para a empresa Cemyke Comunicação Visual como Desenvolvedor Full Stack (PJ). Minha função é desenvolvo os Sites, Landing Pages, e Softwares como Serviço para esta organização.
 - E cuido não apenas da hospedagem, mas também das implementações desses projetos.
