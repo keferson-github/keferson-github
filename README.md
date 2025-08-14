@@ -1,11 +1,10 @@
 # Olá! 
-Atuo no mercado de T.I há pelo menos 4 anos na área de desenvolvimento web.
+Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
 
 ## Tecnologias e Experiência Atual
 Em meus projetos, utilizo as seguintes tecnologias:
 
 **- React**
-
 **- TypeScript**
 
 **- NextJs**
