@@ -21,7 +21,7 @@ No Back-End:
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-007bff?style=flat&logo=postgresql&logoColor=ffffff)
 ![Node](https://img.shields.io/badge/-Node-232323?style=flat&labelColor=000000&logo=nodedotjs&logoColor=339933)
-![Git](https://img.shields.io/badge/-Git-232323?style=flat&labelColor=800080&logo=git&logoColor=171515)
+![Git](https://img.shields.io/badge/-Git-F14E32style=flat&labelColor=800080&logo=git&logoColor=ffffff)
 
 <!-- And in general:
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&labelColor=F05032&logo=git&logoColor=ffffff)
