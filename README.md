@@ -33,8 +33,8 @@ Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
 No **Front-End**:
 
 ![React](https://img.shields.io/badge/-React-232323?style=flat&labelColor=61DAFB&logo=react&logoColor=000000)
-![Nextjs](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-232323?style=flat&labelColor=000000&logo=typescript&logoColor=007acc)
+![Nextjs](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwindcss-232323?style=flat&labelColor=7952B3&logo=tailwindcss&logoColor=ffffff)
 
 No **Back-End**:
