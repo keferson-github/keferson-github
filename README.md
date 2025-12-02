@@ -16,11 +16,12 @@ Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
 
 **- _PostgreSQL_**
 
-**Obs.:** No momento, presto serviço para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)`. 
+**Obs.:** trabalhei para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)` de 2022 a 2025. 
 
 ### Minhas Atividades Na Empresa _Cemyke Comunicação Visual_
-- Minha função é desenvolvo os Sites, Landing Pages, e Softwares como Serviço para esta organização.
-- E cuido não apenas da hospedagem, mas também das implementações desses projetos.
+- Minha função era implementar novas funcionalidades e melhorias para a interface do site da organização. E além de gerenciar o ambiente Cloud de hospedagem, reportava e solucionava eventuais bugs detectados no site.
+- E todos os meses, eu gerava relatórios detalhados sobre o desempenho do site da organização.
+- E como complemento, eu incluía neste relatório mensal, informações sobre as principais métricas sobre o tráfego orgânico do site, para ajudar o time de marketing.
 
 
 #### Stack
