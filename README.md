@@ -1,5 +1,5 @@
 # Um Pouco Sobre Mim... 
-Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
+Atuo no mercado de T.I há 4 anos com __Desenvolvimento Web__.
 
 ## Tecnologias & Experiência Atual
 ### Em meus projetos, utilizo as seguintes tecnologias:
