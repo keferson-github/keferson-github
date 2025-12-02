@@ -12,9 +12,9 @@ Atuo no mercado de T.I há pelo menos 4 anos com __Desenvolvimento Web__.
 
 **- _Tailwind.CSS_**
 
-**- _PostgreSQL_**
-
 **- _Node_**
+
+**- _PostgreSQL_**
 
 **Obs.:** No momento, presto serviço para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)`. 
 
