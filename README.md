@@ -1,27 +1,13 @@
 # Um Pouco Sobre Mim... 
 Atuo no mercado de T.I há 4 anos com __Desenvolvimento Web__.
 
-## Tecnologias & Experiência Atual
-### Em meus projetos, utilizo as seguintes tecnologias:
-
-**- _React_**
-
-**- _TypeScript_**
-
-**- _NextJs_**
-
-**- _Tailwind.CSS_**
-
-**- _Node_**
-
-**- _PostgreSQL_**
-
-**Obs.:** trabalhei para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)` de 2022 a 2025. 
+## Experiência
 
 ### Minhas Atividades Na Empresa _Cemyke Comunicação Visual_
 - Minha função era implementar novas funcionalidades e melhorias para a interface do site da organização. E além de gerenciar o ambiente Cloud de hospedagem, reportava e solucionava eventuais bugs detectados no site.
 - E todos os meses, eu gerava relatórios detalhados sobre o desempenho do site da organização.
 - E como complemento, eu incluía neste relatório mensal, informações sobre as principais métricas do tráfego orgânico do site, para ajudar o time de marketing.
+**Obs.:** Trabalhei para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)` de 2022 a 2025.
 
 
 #### Stack
