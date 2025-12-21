@@ -10,7 +10,7 @@ Atuo no mercado de T.I há 4 anos com __Desenvolvimento Web__.
 **Obs.:** Trabalhei para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)` de 2022 a 2025.
 
 
-#### Stack
+#### Tecnologias
 
 No **Front-End**:
 
