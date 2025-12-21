@@ -7,7 +7,7 @@ Atuo no mercado de T.I há 4 anos com __Desenvolvimento Web__.
 - Minha função era implementar novas funcionalidades e melhorias para a interface do site da organização. E além de gerenciar o ambiente Cloud de hospedagem, reportava e solucionava eventuais bugs detectados no site.
 - E todos os meses, eu gerava relatórios detalhados sobre o desempenho do site da organização.
 - E como complemento, eu incluía neste relatório mensal, informações sobre as principais métricas do tráfego orgânico do site, para ajudar o time de marketing.
-**Obs.:** Trabalhei para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Full Stack (PJ)` de 2022 a 2025.
+- Trabalhei para a empresa **Cemyke Comunicação Visual** como `Desenvolvedor Web Full-Stack (PJ)` de 2022 a 2025.
 
 
 #### Tecnologias
