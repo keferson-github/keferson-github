@@ -1,5 +1,5 @@
 # Um Pouco Sobre Mim... 
-Atuo no mercado de T.I há 4 anos com __Desenvolvimento Web__.
+Atuo como __Desenvolvimento Web Front-End & UI/UX Designer__ há 4 anos.
 
 ## Experiência
 
