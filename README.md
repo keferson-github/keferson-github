@@ -1,5 +1,5 @@
 # Um Pouco Sobre Mim... 
-Atuo como __Desenvolvedor Web Front-End & UI/UX Designer__ há 4 anos.
+Atuo como __Desenvolvedor Web Full Stack & UI/UX Designer__ há 4 anos.
 
 ## Experiência
 
